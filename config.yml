@@ -2,4 +2,4 @@ gui:
   border: "rounded"
   theme:
     selectedLineBgColor:
-      - underline
+      - "#363d59"
